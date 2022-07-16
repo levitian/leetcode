@@ -8,7 +8,7 @@ package cn.tyy.leetcode;
  * 请返回 nums 的动态和。
  *
  * 来源：力扣（LeetCode）
- * 链接：https://leetcode.cn/problems/running-sum-of-1d-array
+ * 链接：<a href="https://leetcode.cn/problems/running-sum-of-1d-array">...</a>
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
 public class RunningSumOf1dArray {
