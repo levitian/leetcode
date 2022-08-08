@@ -8,7 +8,7 @@ import java.util.stream.IntStream;
  * Code in main() will be always be executed until the end, unless a System.exit() forces the program to complete.
  * A daemon thread is the opposite, basically a process that is not required to be executed until the end.
  * 自己的备注：
- * 守护进程会在主线程执行完后也停止执行
+ * 守护进程会在非守护线程执行完后也停止执行
  * 100000迭代打印完成之前主线程可能就执行完成了
  *
  */
